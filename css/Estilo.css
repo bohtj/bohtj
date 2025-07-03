@@ -192,3 +192,13 @@ table,tr,td{
 	font-family:bakery;
 	src: url(../fuentes/bakery.otf);
 }
+div#texto1{
+	width:600px;
+	height:200px;
+	padding-top:5px;
+	font-size:18px;
+	background-color:white;
+	font-family:"tahoma";
+	color:"brown";
+	font-weight:bold;
+}
