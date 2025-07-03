@@ -182,13 +182,13 @@ table,tr,td{
 }
 @font-face{
 	font-family:The Bakery;
-	src: url(../Fuentes/The Bakery.otf);
+	src: url(../fuentes/The Bakery.otf);
 }
 @font-face{
 	font-family:Local Bakery;
-	src: url(../Fuentes/Local Bakery.ttf);
+	src: url(../fuentes/Local Bakery.ttf);
 }
 @font-face{
 	font-family:bakery;
-	src: url(../Fuentes/bakery.otf);
+	src: url(../fuentes/bakery.otf);
 }
